@@ -4,6 +4,10 @@
     border-radius: 12px;
 }
 @font-face {
-    font-family: File-Font;
+    font-family: NewFont;
     src: url(C:\Users\Rusty-ShackleFurd\Downloads\Odin-project\Sign-up-Sheet\Corrupted-file.tff);
+
+}
+.Logo{
+    font-family: NewFont;
 }
