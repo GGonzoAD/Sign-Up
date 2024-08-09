@@ -1,4 +1,9 @@
-div.Night-City{
+.Night-City{
+    display:block;
     width: 50%;
-    border-radius: 12px;;
+    border-radius: 12px;
+}
+@font-face {
+    font-family: File-Font;
+    src: url(C:\Users\Rusty-ShackleFurd\Downloads\Odin-project\Sign-up-Sheet\Corrupted-file.tff);
 }
