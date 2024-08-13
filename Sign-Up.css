@@ -3,12 +3,14 @@
     width: 50%;
     border-radius: 12px;
 }
+
 @font-face{
  font-family: Heavy-Data;
- src: url("/Downloads/Odin-project/Sign-up-Sheet/heavy_data.ttf") format("ttf");   
+ src: url("../Odin-project/Sign-up-Sheet/heavy_data.ttf") format("ttf");   
  font-weight: normal;
  font-style: normal;
 }
-.Logo{
+
+.Logo>p{
     font-family: Heavy-Data;
 }
