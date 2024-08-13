@@ -5,12 +5,12 @@
 }
 
 @font-face{
- font-family: Heavy-Data;
- src: url("../Odin-project/Sign-up-Sheet/heavy_data.ttf") format("ttf");   
+ font-family: 'heavy_data';
+ src: url("C:/Users/Rusty ShackleFurd/Downloads/Odin-project/Sign-up-Sheet/Corrupted File.ttf");   
  font-weight: normal;
  font-style: normal;
 }
 
 .Logo>p{
-    font-family: Heavy-Data;
+    font-family: 'heavy_data';
 }
