@@ -3,11 +3,12 @@
     width: 50%;
     border-radius: 12px;
 }
-@font-face {
-    font-family: NewFont;
-    src: url(C:\Users\Rusty-ShackleFurd\Downloads\Odin-project\Sign-up-Sheet\Corrupted_file.tff);
-
+@font-face{
+ font-family: Heavy-Data;
+ src: url("C:/Users/Rusty ShackleFurd/Downloads/Odin-project/Sign-up-Sheet/heavy_data.ttf") format("ttf");   
+ font-weight: normal;
+ font-style: normal;
 }
 .Logo{
-    font-family: NewFont;
+    font-family: Heavy-Data;
 }
