@@ -1,7 +1,9 @@
 .Night-City{
-    display:block;
-    width: 50%;
-    border-radius: 12px;
+   width: 30%;
+   position:absolute;
+   left: 0px;
+   height: 100%;
+
 }
 
 @font-face{
