@@ -15,6 +15,11 @@
 .Topbox{
     background-color: rgb(203, 145, 236);
     position: absolute;
+    right: 30px;
+    padding-bottom:-600px;
+    width: 1315px;
+    height: 200px;
+    
 
 }
 @font-face{
