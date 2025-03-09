@@ -4,9 +4,9 @@
 }
 .Night-City{
    width: 30%;
-   position:absolute;
    left: 0px;
    height: 100%;
+   position:absolute;
 }
 .Odin{
     height:100px;
@@ -14,13 +14,11 @@
 }
 .Topbox{
     background-color: rgb(203, 145, 236);
-    position: absolute;
+    position:absolute;
     right: 30px;
-    padding-bottom:-600px;
-    width: 1315px;
     height: 200px;
-    
-
+    width: 1315px;
+    padding: 0;
 }
 @font-face{
  font-family: 'heavy_data';
