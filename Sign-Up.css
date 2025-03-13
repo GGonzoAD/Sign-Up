@@ -19,7 +19,7 @@
     position:absolute;
     right: 30px;
     height: 350px;
-    width: 1315px;
+    width: 1345px;
     padding: 0;
 }
 .Paragraph{
@@ -55,6 +55,10 @@
 
   }
   .Sign-In{
-    color:#797878;
-    left: 1000px;
+    position: relative;
+    height: 325px;
+    background-color:#797878;
+    width: 1345px;
+    left: 575px;
+    top: 20px;
   }
