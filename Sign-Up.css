@@ -67,3 +67,20 @@
     font-size: 22px;
     left: 25px;
   }
+  .last_name{
+    position: relative;
+    left: 275px;
+    top: -37px;
+  }
+
+  .phone_number{
+    position: relative;
+    left: 275px;
+    top: -37px;
+  }
+
+  .confirm_password{
+    position: relative;
+    left: 275px;
+    top: -37px;
+  }
