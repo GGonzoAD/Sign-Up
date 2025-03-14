@@ -110,3 +110,10 @@
     font-family:Verdana, Geneva, Tahoma, sans-serif; 
     font-size: 16px;
   }
+  input{
+    border: 2px solid #8036a1;
+    border-radius: 8px;
+  }
+  input:invalid{
+    border-color: red;
+  }
