@@ -58,7 +58,8 @@
     position: relative;
     height: 325px;
     background-color:#797878;
-    width: 1345px;
+    min-width: 1024px;
+    max-width: 1280px;
     left: 575px;
     top: 20px;
   }
