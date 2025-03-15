@@ -80,7 +80,7 @@
     font-size: 16px;
     position: relative;
     left: 275px;
-    top: -40px;
+    top: -45px;
   }
   .Email{
     font-family:Verdana, Geneva, Tahoma, sans-serif; 
@@ -92,7 +92,7 @@
   .phone_number{
     position: relative;
     left: 275px;
-    top: -40px;
+    top: -45px;
     font-family:Verdana, Geneva, Tahoma, sans-serif; 
     font-size: 16px;
   }
@@ -106,18 +106,19 @@
   .confirm_password{
     position: relative;
     left: 275px;
-    top: -40px;
+    top: -45px;
     font-family:Verdana, Geneva, Tahoma, sans-serif; 
     font-size: 16px;
   }
   input{
     border: 2px solid #E5E7EB;
     border-radius: 8px;
+    padding: 4px;
   }
   input:invalid{
     border-color: red;
   }
 
-  input:focus{
+  input:valid{
     border-color:#804492
   }
