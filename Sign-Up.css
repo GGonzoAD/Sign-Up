@@ -119,6 +119,7 @@
     border-color: red;
   }
 
-  input:valid{
-    border-color:#804492
+  input:focus{
+    border: 2px solid #888fee;
+    box-shadow: 5px 5px 8px #000000;
   }
