@@ -141,6 +141,8 @@
     border-radius: 10px;
   }
   .Log_In{
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
     position: relative;
-    
+    right: -600px;
+    top: 80px;
   }
