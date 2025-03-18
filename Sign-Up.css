@@ -119,7 +119,7 @@
     padding: 4px;
   }
   input:focus{
-    border: 2px solid #9198ff;
+    border: 2px solid #0111f1;
     box-shadow: 5px 5px 8px #000000;
   }
   input:invalid{
